@@ -1,2 +1,2 @@
 # freemapping
-A processing video mapping tool
+Processing videomapping tool
